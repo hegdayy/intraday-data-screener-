@@ -6,6 +6,7 @@ the code also has free market data using basic y-finance (code needs you to inst
 the code has a seperate panel named pms(portfolio manager) to automate based on your strategy or data structured column formula to enter/exit a position 
 while the pms can also record and hold manually executed positions aswell 
 
+the app is meant to be a free to use system to use instruments which are not available unless with professional paid screeners 
 features of the app 
 - shows real time brokerage fee for entry and exit of your position
 - shows liquidity in a stock in real time 
