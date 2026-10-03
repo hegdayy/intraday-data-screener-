@@ -1,2 +1,18 @@
 # intraday-data-screener-
-screener for indian stock markets that has specific created instruments to help understand the market for every comman man 
+market screener and automated strategy deployment  for markets that has specific created instruments(commonly used in industry) to help understand the market for ordinary market 
+the app has inbuilt kite/zerodha connect to link your account and run real time data using kite's inbuilt real time market data api ie. kiteconnect and 
+the code also has free market data using basic y-finance (code needs you to install pip install y-finance) . 
+
+the code has a seperate panel named pms(portfolio manager) to automate based on your strategy or data structured column formula to enter/exit a position 
+while the pms can also record and hold manually executed positions aswell 
+
+features of the app 
+- shows real time brokerage fee for entry and exit of your position
+- shows liquidity in a stock in real time 
+- consistent and most efficient use of any kind of api for market data with least amount of delay
+- clean and easy to use aesthetic ui interface for easy interactions
+- can assign formula columns parameters to automate a strategy
+- the code is a sandbox and easy to replace a column in the main tab for a more suitable instrument
+
+  <img width="1112" height="1080" alt="flagship2" src="https://github.com/user-attachments/assets/a66084da-83f5-48cb-b23c-b0e4caf19af2" />
+  
