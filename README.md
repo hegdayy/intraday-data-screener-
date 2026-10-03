@@ -16,3 +16,6 @@ features of the app
 
   <img width="1112" height="1080" alt="flagship2" src="https://github.com/user-attachments/assets/a66084da-83f5-48cb-b23c-b0e4caf19af2" />
   
+
+
+<img width="1553" height="989" alt="gfs" src="https://github.com/user-attachments/assets/6bcc7c64-3d3b-447f-a1ff-879c1f393321" />
