@@ -13,6 +13,8 @@ features of the app
 - clean and easy to use aesthetic ui interface for easy interactions
 - can assign formula columns parameters to automate a strategy
 - the code is a sandbox and easy to replace a column in the main tab for a more suitable instrument
+- still an ongoing progress in building a screener which is usable for everyone and for free to use all kinds of instruments which
+- is only available in paid screeners 
 
   <img width="1112" height="1080" alt="flagship2" src="https://github.com/user-attachments/assets/a66084da-83f5-48cb-b23c-b0e4caf19af2" />
   
