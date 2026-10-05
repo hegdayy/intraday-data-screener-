@@ -17,8 +17,11 @@ features of the app
 - still an ongoing progress in building a screener which is usable for everyone and for free to use all kinds of instruments which
 - is only available in paid screeners 
 
-  <img width="1112" height="1080" alt="flagship2" src="https://github.com/user-attachments/assets/a66084da-83f5-48cb-b23c-b0e4caf19af2" />
+ 
   
 
+<img width="1112" height="920" alt="preview" src="https://github.com/user-attachments/assets/d7b6a5bc-df66-4ef2-84e6-37a351cbffbe" />
 
-<img width="1553" height="989" alt="gfs" src="https://github.com/user-attachments/assets/6bcc7c64-3d3b-447f-a1ff-879c1f393321" />
+
+
+<img width="1502" height="812" alt="preview-2" src="https://github.com/user-attachments/assets/5888849c-2b8c-4a88-94d0-50ca8957e6d5" />
